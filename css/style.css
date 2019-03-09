@@ -122,7 +122,7 @@ h2.article-head {
 #article-banner {
   width: 100%;
   box-sizing: border-box;
-  top: 0;
+  top: -20px;
   left: 0;
   padding: 100px 20px 25px 20px;
   text-align: center;
